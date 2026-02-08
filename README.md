@@ -1,4 +1,4 @@
-# Smart-Inventory-Tracking-System
+# Smart Inventory Tracking System
 
 ## Description
 - This project implements a smart inventory management system for restaurants.
@@ -16,3 +16,4 @@
 - Firebase / MongoDB
 - Machine Learning
 - Notification System
+
